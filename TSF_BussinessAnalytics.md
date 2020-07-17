@@ -2,6 +2,7 @@
 title: "The Spark Foundation"
 subtitle: "Task 4 - Bussiness Analytics"
 author: "Bipul Jha"
+output: rmarkdown::github_document
 ---
 
 
